@@ -4,10 +4,10 @@ echo 'Welcome to Free WiFi Marketing'
 echo 'Getting source...'
 echo '#################################################'
 wget http://downloads.openwrt.org/barrier_breaker/14.07/ar71xx/generic/packages/routing/nodogsplash_0.9_beta9.9.8-2_ar71xx.ipk >null
-wget http://abcde1.96.lt/banner.jpg >null
-wget http://abcde1.96.lt/button.jpg >null
-wget http://abcde1.96.lt/splash.html >null
-wget http://abcde1.96.lt/nodogsplash.conf >null 
+wget https://handezvn.github.io/wifimarketting_demo/banner.jpg >null
+wget https://handezvn.github.io/wifimarketting_demo/button.jpg >null
+wget https://handezvn.github.io/wifimarketting_demo/index.html >null
+wget https://handezvn.github.io/wifimarketting_demo/nodogsplash.conf >null 
 
 clear
 echo 'Installing please wait, donot turn off your router...'
